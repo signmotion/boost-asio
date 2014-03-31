@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost-asio-1", "boost-asio-1\boost-asio-1.vcxproj", "{3CDDB199-F296-491C-8D62-291BAEFDA922}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost-asio-sync", "boost-asio-sync\boost-asio-sync.vcxproj", "{DCF2156C-7032-42E4-AC11-3D7D9EB0042C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost-asio-thread-pool", "boost-asio-thread-pool\boost-asio-thread-pool.vcxproj", "{E927C7BC-017F-4D27-84BC-3582EACB0B8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost-asio-event-pool", "boost-asio-event-pool\boost-asio-event-pool.vcxproj", "{AD4006FC-814A-4276-8727-11CF71FF6F9B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost-asio-event-pool-2", "boost-asio-event-pool-2\boost-asio-event-pool-2.vcxproj", "{0FE158ED-9554-4789-A237-A015C4D0DFC7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thread-pool-2", "thread-pool-2\thread-pool-2.vcxproj", "{4E0AFA49-FAC1-48B4-B1F5-0C944B43761E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDDB199-F296-491C-8D62-291BAEFDA922}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3CDDB199-F296-491C-8D62-291BAEFDA922}.Debug|Win32.Build.0 = Debug|Win32
+		{3CDDB199-F296-491C-8D62-291BAEFDA922}.Release|Win32.ActiveCfg = Release|Win32
+		{3CDDB199-F296-491C-8D62-291BAEFDA922}.Release|Win32.Build.0 = Release|Win32
+		{DCF2156C-7032-42E4-AC11-3D7D9EB0042C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCF2156C-7032-42E4-AC11-3D7D9EB0042C}.Debug|Win32.Build.0 = Debug|Win32
+		{DCF2156C-7032-42E4-AC11-3D7D9EB0042C}.Release|Win32.ActiveCfg = Release|Win32
+		{DCF2156C-7032-42E4-AC11-3D7D9EB0042C}.Release|Win32.Build.0 = Release|Win32
+		{E927C7BC-017F-4D27-84BC-3582EACB0B8A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E927C7BC-017F-4D27-84BC-3582EACB0B8A}.Debug|Win32.Build.0 = Debug|Win32
+		{E927C7BC-017F-4D27-84BC-3582EACB0B8A}.Release|Win32.ActiveCfg = Release|Win32
+		{E927C7BC-017F-4D27-84BC-3582EACB0B8A}.Release|Win32.Build.0 = Release|Win32
+		{AD4006FC-814A-4276-8727-11CF71FF6F9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD4006FC-814A-4276-8727-11CF71FF6F9B}.Release|Win32.ActiveCfg = Release|Win32
+		{0FE158ED-9554-4789-A237-A015C4D0DFC7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0FE158ED-9554-4789-A237-A015C4D0DFC7}.Debug|Win32.Build.0 = Debug|Win32
+		{0FE158ED-9554-4789-A237-A015C4D0DFC7}.Release|Win32.ActiveCfg = Release|Win32
+		{0FE158ED-9554-4789-A237-A015C4D0DFC7}.Release|Win32.Build.0 = Release|Win32
+		{4E0AFA49-FAC1-48B4-B1F5-0C944B43761E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E0AFA49-FAC1-48B4-B1F5-0C944B43761E}.Debug|Win32.Build.0 = Debug|Win32
+		{4E0AFA49-FAC1-48B4-B1F5-0C944B43761E}.Release|Win32.ActiveCfg = Release|Win32
+		{4E0AFA49-FAC1-48B4-B1F5-0C944B43761E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
